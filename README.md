@@ -25,7 +25,7 @@
  
  ## Description :  
  <a name="Description"></a>  
- svg logos are generated with a series of questions in the command prompt  
+ svg logos are generated with a series of questions in the command prompt. You can also test the logos with jest by running npm run test.
  ## Questions :  
  <a name="Questions"></a> 
  1. What is your Github Username? 
@@ -33,7 +33,7 @@
  
     | Github Username  | **Email id** | **Github Repo link** | **Deployed Url** |
     | --- | --- | --- | --- |
-    | [divyakrishnan15](https://github.com/divyakrishnan15) | divya@gmail.com | [Weather App](https://github.com/divyakrishnan15/weatherapp/) | [Weather App](https://divyakrishnan15.github.io/weatherapp//) 
+    | [divyakrishnan15](https://github.com/divyakrishnan15) | divya@gmail.com | [SVG logo](https://github.com/divyakrishnan15/weatherapp/) | [SVG logo](https://divyakrishnan15.github.io/weatherapp//) 
  ## Installation :  
  <a name="Installation"></a> 
 ```shell 
@@ -66,7 +66,19 @@ npm i
 
  ## Usage :  
  <a name="Usage"></a> 
- Download the code to your local. Perform npm i to install all the packages. Click on the deployed url in the readme.When the app opens in the browser,Enter a city. The user can see the current and 5 day forecast of the weather for the city. 
+ Download the code to your local. 
+ Perform **npm i** to install all the packages. 
+ Answer the questions asked in the command prompt like(
+   1. svg shape
+   2. shape color
+   3. text inside svg
+   4. text color
+   5. do you need animation?
+   6. if yes select the animation
+ 
+ To test the created svg:
+   run **npm run test**
+   
  ## Watchme Video : 
  <a name="Video"></a> 
  [![Watch the video](https://img.youtube.com/vi/qUvt8HQKX6A/maxresdefault.jpg)](https://youtu.be/qUvt8HQKX6A)

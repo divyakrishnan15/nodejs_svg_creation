@@ -37,7 +37,7 @@
  ## Installation :  
  <a name="Installation"></a> 
 ```shell 
-npm i inquirer
+npm i inquirer@8.2.4
 npm install --save-dev jest
 ```
 Update package.json for jest to run:

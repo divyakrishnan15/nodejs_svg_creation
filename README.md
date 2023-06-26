@@ -81,7 +81,7 @@ npm i
    
  ## Watchme Video : 
  <a name="Video"></a> 
- [![Watch the video](https://img.youtube.com/vi/qUvt8HQKX6A/maxresdefault.jpg)](https://youtu.be/qUvt8HQKX6A)
+ https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/a5bd0507-5e77-420c-8313-34bfbea5fd57
  ## License :  
  <a name="License"></a> 
  [MIT License](https://choosealicense.com/licenses/mit/) 
@@ -90,5 +90,5 @@ npm i
  There are no test for this app but in future we have planned to add the test with JEST.
  ## Screenshot : 
  <a name="screenshot"></a> 
- ![Watch the video](https://img.youtube.com/vi/qUvt8HQKX6A/maxresdefault.jpg) 
+ ![svg creattion and jest test](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/2dca392b-e171-4b94-992d-6d210e485cb7)
  #### Copyright © 2023, Divya Krishnan. Released under the [MIT License](https://choosealicense.com/licenses/mit/).

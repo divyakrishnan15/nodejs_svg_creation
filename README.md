@@ -79,7 +79,7 @@ npm i
  To test the created svg:
    run **npm run test**
    
- ## Watchme Video : 
+ ## Watchme Video- (click on the video to play) : 
  <a name="Video"></a> 
  [![Watch the video](https://img.youtube.com/vi/IDsxM5c4ays/maxresdefault.jpg)](https://youtu.be/IDsxM5c4ays)
  ## License :  

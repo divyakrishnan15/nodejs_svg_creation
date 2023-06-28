@@ -31,9 +31,9 @@
  1. What is your Github Username? 
  2. What is your Email address ? 
  
-    | Github Username  | **Email id** | **Github Repo link** | **Deployed Url** |
-    | --- | --- | --- | --- |
-    | [divyakrishnan15](https://github.com/divyakrishnan15) | divya@gmail.com | [SVG logo](https://github.com/divyakrishnan15/weatherapp/) | [SVG logo](https://divyakrishnan15.github.io/weatherapp//) 
+    | Github Username  | **Email id** | **Github Repo link** | **Deployed Url** | **Contributor** |
+    | --- | --- | --- | --- | --- |
+    | [divyakrishnan15](https://github.com/divyakrishnan15) | divya@gmail.com | [SVG logo](https://github.com/divyakrishnan15/weatherapp/) | [SVG logo](https://divyakrishnan15.github.io/weatherapp//) | Sole Contributor |
  ## Installation :  
  <a name="Installation"></a> 
 ```shell 

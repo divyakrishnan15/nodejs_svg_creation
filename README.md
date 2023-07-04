@@ -92,6 +92,7 @@ npm i
  This app was  tested with JEST.
  ## Contributor :
  <a name="Contributor"></a> 
+ Sole Contributor
  ## Screenshot : 
  <a name="screenshot"></a> 
  

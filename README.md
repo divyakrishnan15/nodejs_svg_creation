@@ -90,17 +90,21 @@ npm i
  There are no test for this app but in future we have planned to add the test with JEST.
  ## Screenshot : 
  <a name="screenshot"></a> 
- ![svg creattion and jest test](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/2dca392b-e171-4b94-992d-6d210e485cb7)
+ 
+![svg creattion and jest test](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/81de0558-9f04-4c96-8628-c8e9c6155716)
 
-![svg creattion and jest test1](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/203cfe12-54a9-44aa-b226-c4dc1ac33f6d)
+![svg creattion and jest test1](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/394e7f6d-ad74-42a6-adc6-e2d1700d1dba)
 
- ![svg creattion and jest test2](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/83832e49-4701-4adb-84ac-f966595b7e7f)
+![svg creattion and jest test2](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/e6ff7c7e-2db8-42be-bc3a-36b2363adf89)
 
-![svg creattion and jest test3](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/6780d27b-2d34-40e1-ad2a-4b7d529ed953)
+![svg creattion and jest test3](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/b959aaf1-f09a-4277-8dfc-5bec7662774a)
 
-![svg creattion and jest test4](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/f7e08341-ae4d-4c4f-8a68-afb3771a5280)
+![svg creattion and jest test4](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/eb82530d-3b10-4668-8ec4-668073d7a602)
 
- ![svg creattion and jest test5](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/49dfe87a-33a3-4b6c-b8f5-f2d5023a351a)
+
+![svg creattion and jest test5](https://github.com/divyakrishnan15/nodejs_svg_creation/assets/40469923/5e4d5e3c-42c7-443d-9307-3fdb802d9541)
+
+
 
 
  #### Copyright © 2023, Divya Krishnan. Released under the [MIT License](https://choosealicense.com/licenses/mit/).

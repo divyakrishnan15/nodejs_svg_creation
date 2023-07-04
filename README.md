@@ -19,9 +19,11 @@
 
         7.  [License](#License) 
 
-        8. [Tests](#Tests) 
+        8. [Tests](#Tests)
 
-        9. [Screenshot](#screenshot) 
+        9. [Contributor](#Contributor) 
+
+        10. [Screenshot](#screenshot) 
  
  ## Description :  
  <a name="Description"></a>  
@@ -87,7 +89,9 @@ npm i
  [MIT License](https://choosealicense.com/licenses/mit/) 
  ## Tests :
  <a name="Tests"></a> 
- There are no test for this app but in future we have planned to add the test with JEST.
+ This app was  tested with JEST.
+ ## Contributor :
+ <a name="Contributor"></a> 
  ## Screenshot : 
  <a name="screenshot"></a> 
  
